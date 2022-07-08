@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayur Duduka.</h1>
 <h3 align="center">A DevOps Engineer from India</h3>
 
-<h3 align="left">"न कंचित् शाश्वतम्"</h3>
-<p align="left">
+<h3 align="center">"न कंचित् शाश्वतम्"</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
